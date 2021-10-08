@@ -1,0 +1,27 @@
+body {
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(22, 22, 177);
+    font-size: 48px;
+}
+
+h2 {
+    color: rgb(156, 3, 34);
+    font-size: 28px;
+}
+
+p, li {
+    font-size: 18px;
+}
+
+.main {
+    text-align: center;
+}
